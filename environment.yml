@@ -1,0 +1,6 @@
+name: mybinder-env
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - requests
